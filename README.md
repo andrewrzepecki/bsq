@@ -9,8 +9,8 @@ September 2018.
 -----------------------------------------------------------------------------------------
 
 1. Compile program using 'make' in root.
-2. Generate map using the perlmap genrator: "perl perlmap [x] [y] [dentisity] > map.txt".
-2. Send output to bsq executable:  "perl perlmap [x] [y] [dentisity]" | ./BSQ".
+2. Generate map using the perlmap genrator: "perl perlmap [x] [y] [density] > map.txt".
+2. Send output to bsq executable:  "perl perlmap [x] [y] [density]" | ./BSQ".
 3. Read from file: "./BSQ map.txt".
 
 -----------------------------------------------------------------------------------------
